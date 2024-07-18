@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "esto no es una imagen... pero confunde... porque no tiene extensión"
+echo "fin del programa"
